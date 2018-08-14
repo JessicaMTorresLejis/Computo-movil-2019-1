@@ -1,2 +1,3 @@
-# Computo movil 2019-1
-
+# Cómputo móvil 2019-1
+ Grupo 01
+ 
